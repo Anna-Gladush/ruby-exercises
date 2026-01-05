@@ -30,7 +30,7 @@ These exercises are designed to complement the [Ruby Basic lessons](https://www.
 
 #### 7.Hashes
 
-- [ ] Hash Exercises
+- [X] Hash Exercises
 
 #### 8.Methods
 
